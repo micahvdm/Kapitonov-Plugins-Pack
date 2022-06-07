@@ -29,3 +29,4 @@
          foaf:mbox <mailto:kapitonov1987@gmail.com> ;
      ] .
 
+<https://faustlv2.bitbucket.io/kpp_tubeamp> rdfs:seeAlso <modgui.ttl> .
