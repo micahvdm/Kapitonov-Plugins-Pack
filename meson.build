@@ -23,7 +23,7 @@ endif
 
 plugins = {
   'single2humbucker': {
-    'lv2src': ['kpp_single2humbucker.cpp']
+    'lv2': true,
   }, 'tubeamp': {
     'gui': false,
     'lv2src': ['kpp_tubeamp.cpp'],
