@@ -23,9 +23,9 @@ endif
 
 plugins = {
   'single2humbucker': {
-    'ladspa': true
+    'lv2src': ['kpp_single2humbucker.cpp']
   }, 'tubeamp': {
-    'gui': true,
+    'gui': false,
     'lv2src': ['kpp_tubeamp.cpp'],
     'libs': ['zita-convolver', 'zita-resampler']
   },
