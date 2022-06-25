@@ -9,7 +9,7 @@
         modgui:screenshot <modgui/screenshot-kpptubeamp.png> ;
         modgui:thumbnail <modgui/thumbnail-kpptubeamp.png> ;
         modgui:brand "KPP" ;
-        modgui:label "TubeAmp" ;
+        modgui:label "Amp Profiler" ;
         modgui:model "combo-model-001" ;
         modgui:panel "0930" ;
         modgui:port [
