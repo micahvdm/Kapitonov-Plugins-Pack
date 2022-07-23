@@ -22,9 +22,7 @@ if not lv2.found() and not ladspa
 endif
 
 plugins = {
-  'single2humbucker': {
-    'lv2': true,
-  }, 'tubeamp': {
+  'tubeamp': {
     'gui': false,
     'lv2src': ['kpp_tubeamp.cpp'],
     'libs': ['zita-convolver', 'zita-resampler']
